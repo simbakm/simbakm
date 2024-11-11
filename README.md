@@ -1,0 +1,6 @@
+- 👋 Hi, I’m simbarashe sandi
+- 👀 I’m interested in web development,specifically using php framework laravel,
+-  👀 I’m also interested in flutter and springboot
+- 🌱 I’m currently pursuing a bachelor's degree in software engineering
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me, github username simbakm, on linked in simbarashe sandi
